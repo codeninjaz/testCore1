@@ -11,7 +11,7 @@ namespace testcore1.Controllers
     {
         private static string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Skitkallt", "Hyfsat kallr", "Kyligt", "Svalt", "Milt", "Varmt", "Svettigt", "Hett", "Redigt hett", "Skitvarmt!"
         };
 
         [HttpGet("[action]")]
